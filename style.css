@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hap — Gizlilik Politikası</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="logo">💊</div>
+    <h1>Gizlilik Politikası</h1>
+    <p class="updated">Son güncelleme: 12 Haziran 2026</p>
+  </header>
+
+  <main class="wrap">
+    <a class="back" href="index.html">‹ Geri</a>
+
+    <div class="card intro">
+      <p>Hap, gizliliğine saygı duyar. Bu uygulama hesap oluşturmanı gerektirmez ve verilerini bizim sunucularımıza göndermez. Kısaca: verilerin sana ait ve cihazında kalır.</p>
+    </div>
+
+    <div class="card">
+      <h2>Hangi verileri saklıyoruz?</h2>
+      <p>Eklediğin ilaçlar, doz saatleri, alım kayıtların, sağlık ölçümlerin (su, tansiyon, kan şekeri, nabız, kilo, ateş) ve profil bilgilerin (ad, soyad, doğum tarihi). Bu bilgilerin tamamı yalnızca senin tarafından girilir.</p>
+
+      <h2>Veriler nerede tutulur?</h2>
+      <p>Tüm verilerin cihazının kendi belleğinde saklanır. İstersen “iCloud Yedekleme” seçeneğini açabilirsin; bu durumda verilerin yalnızca senin kişisel iCloud hesabın üzerinden, kendi Apple cihazların arasında senkronize olur. Bu sürece biz dahil değiliz ve verilerine erişemeyiz. iCloud senkronizasyonu varsayılan olarak kapalıdır.</p>
+
+      <h2>Veri toplamıyoruz</h2>
+      <p>Hap; reklam ağları, analitik araçlar veya üçüncü taraf izleyiciler kullanmaz. Hareketlerini takip etmez, kişisel verilerini satmaz veya paylaşmaz.</p>
+
+      <h2>Kamera</h2>
+      <p>Kamera yalnızca iki isteğe bağlı özellik için kullanılır: ilaç kutusu üzerindeki yazıyı okuma (tarama) ve parmakla tahmini nabız ölçümü. Görüntüler cihazında işlenir, kaydedilmez ve hiçbir yere gönderilmez.</p>
+
+      <h2>Mikrofon ve konuşma tanıma</h2>
+      <p>İlaç veya ölçüm bilgisini sesle yazdırmak istediğinde mikrofon kullanılır. Konuşma tanıma Apple’ın teknolojisiyle yapılır; cihazın destekliyorsa tamamen cihaz üzerinde çalışır. Sesli giriş tamamen isteğe bağlıdır.</p>
+
+      <h2>Yapay zeka özellikleri</h2>
+      <p>Akıllı içgörüler ve doğal dil çözümleme, destekleyen cihazlarda Apple Intelligence’ın cihaz üzerinde çalışan yapay zeka modelini kullanır. Bu işlemler internete veri göndermeden cihazında gerçekleşir.</p>
+
+      <h2>Bildirimler</h2>
+      <p>Hatırlatıcılar için bildirim izni istenir. Bildirimler cihazında planlanır ve gösterilir.</p>
+
+      <h2>Satın alımlar</h2>
+      <p>Hap Plus aboneliği ve satın alımlar tamamen Apple App Store üzerinden yönetilir. Ödeme bilgilerine erişimimiz yoktur ve bu bilgileri görmeyiz.</p>
+
+      <h2>Çocukların gizliliği</h2>
+      <p>Hap, çocuklardan bilerek kişisel veri toplamaz. Uygulama herhangi bir kişisel veriyi sunucularımıza iletmediğinden, girilen tüm bilgiler kullanıcının cihazında kalır.</p>
+
+      <h2>Tıbbi sorumluluk reddi</h2>
+      <p class="disclaimer">Hap bir hatırlatma ve takip aracıdır; tıbbi tavsiye, teşhis veya tedavi sunmaz. Sağlık ölçümleri ve içgörüler yalnızca bilgilendirme amaçlıdır. Sağlığınla ilgili kararlar için her zaman doktoruna danış.</p>
+
+      <h2>Değişiklikler</h2>
+      <p>Bu politikayı zaman zaman güncelleyebiliriz. Önemli değişiklikler uygulama güncellemeleriyle birlikte yayınlanır.</p>
+
+      <h2>İletişim</h2>
+      <p>Gizlilikle ilgili sorularını <a href="mailto:muhmuh55@icloud.com">muhmuh55@icloud.com</a> adresine iletebilirsin.</p>
+    </div>
+
+    <footer>© 2026 Hap · Tüm hakları saklıdır</footer>
+  </main>
+</body>
+</html>
